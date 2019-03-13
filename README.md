@@ -8,8 +8,7 @@ This application runs based on the input of a user. Make sure to create your myS
 The application will provide a list of the items that is available in database. You can add/delete/modify the data in the database or add your own data by following the example of the mySQL seed file. 
 
 As soon as you run the application an inventory of the stock will show on your terminal, see example below:
-![Terminal view](/screenshots/showinginventory.png)
-
+![showinginventory](https://user-images.githubusercontent.com/44211709/54251509-d74c9800-451d-11e9-94c5-6d29d85fdbe2.PNG)
 
 Once the user selects the item by ID number and the quantity value by inputing the numbers, if the item is in stock them the application will return the order plus the price times the quantity value and lets the user know the value of his/her order. See below for an example:
 ![Order view](/screenshots/ordering.png)
